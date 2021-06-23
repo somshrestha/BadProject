@@ -1,0 +1,11 @@
+﻿//
+// Refactor the AdvertisementService
+// (It works, but the quality of the code is very poor)
+//
+// Find the problems, refactor it, make it better
+// Use TDD, SOLID principles, Clean Code, etc.
+//
+// Requirements:
+// - The AdvertisementService must have a "public Advertisement GetAdvertisement(string id)" method
+// - Modification of the ThirdParty project is not allowed
+// - Anything else (new classes, methods, tests, etc) are welcome if required
